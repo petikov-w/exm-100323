@@ -1,0 +1,37 @@
+header {
+  background-color: #2D2B34;
+  padding: 30px 0;
+  text-align: center;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.main {
+  text-align: center;
+  /*width: 70%;*/
+  /*margin: 0 auto;*/
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.active {
+   color: darkseagreen;
+   cursor: default;
+}
+
+main {
+   min-height: calc(95vh - 85px - 22px);
+   padding-top: 1.5rem;
+   padding-bottom: 1.5rem;
+}
